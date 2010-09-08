@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for plugin &quot;tx_jhejstester_pi1&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="no_javascript">JavaScript is currenty disabled in your web browser.</label>
+                        <label index="no_javascript_desc">In this case the full functionality of this website ist not accessable for you.</label>
+                        <label index="no_javascript_more">More information on how to enable javascript in your browser can be found </label>
+                        <label index="no_javascript_here">here</label>
+		</languageKey>
+                <languageKey index="de" type="array">
+			<label index="no_javascript">JavaScript ist aktuell in Ihrem Webbrowser nicht aktiviert.</label>
+                        <label index="no_javascript_desc">In diesem Fall steht Ihnen nicht die volle Funktionalität der Webseite zur Verfügung.</label>
+                        <label index="no_javascript_more">Mehr Informationen, wie Sie JavaScript in Ihrem Browser aktivieren können, finden Sie </label>
+                        <label index="no_javascript_here">hier</label>.
+		</languageKey>
+	</data>
+</T3locallang>

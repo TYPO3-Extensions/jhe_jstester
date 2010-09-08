@@ -1,0 +1,28 @@
+/* 
+    Document   : css
+    Created on : 07.09.2010, 12:45:21
+    Author     : jari-hermann.ernst
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+.no_js_warner {
+    display: block;
+    border: 1px solid #f00;
+    -moz-border-radius:5px;
+    -khtml-border-radius:5px;
+    margin: 10px 0;
+    padding: 5px;
+}
+
+.no_js_warner p a {
+    display: inline;
+}
+
+
+

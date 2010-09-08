@@ -1,0 +1,4 @@
+plugin.tx_jhejstester_pi1 {
+  #cat=JavaScript Tester; label=Page with help texts
+  helpUid= {$plugin.tx_jhejstester_pi1.helpUid}
+}
