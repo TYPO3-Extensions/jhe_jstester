@@ -3,7 +3,7 @@
 /***************************************************************
  * Extension Manager/Repository config file for ext "jhe_jstester".
  *
- * Auto generated 17-06-2013 10:58
+ * Auto generated 17-06-2013 11:12
  *
  * Manual updates:
  * Only the data in the array - everything else is removed by next
@@ -12,7 +12,7 @@
 
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'JavaScript-Tester',
-	'description' => 'A little fe plugin that generates an <noscript>-tag which is shown when JavaScript is disabled in the users browser.',
+	'description' => 'A little fe plugin that generates a noscript-tag which is shown when JavaScript is disabled in the users browser.',
 	'category' => 'plugin',
 	'author' => 'Jari-Hermann Ernst',
 	'author_email' => 'jari-hermann.ernst@bad-gmbh.de',
